@@ -2,7 +2,7 @@
 
 import functools
 
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup, Ta
 
 
 def _get_navigation_expand_image(soup: BeautifulSoup) -> Tag:
